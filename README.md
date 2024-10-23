@@ -15,15 +15,15 @@ Steam page of the games: </br>
 # <b>Installation</b></br>
 
 1) Download the zip file, depending if you want to play 
-- Cloudpunk: [https://github.com/Astienth/Panzer_Dragoon_Remake_VR_bHaptics_Provolver/releases/download/1.0/PanzerDragoonRemakeVR_bHaptics_Provolver.zip](https://github.com/Astienth/Panzer_Dragoon_Remake_VR_bHaptics_Provolver/releases/download/1.0/PanzerDragoonRemakeVR_bHaptics_Provolver.zip)</br>
-- Cloudpunk City of Ghosts: [https://github.com/Astienth/Panzer_Dragoon_Remake_VR_bHaptics_Provolver/releases/download/1.0/PanzerDragoonRemakeVR_bHaptics_Provolver.zip](https://github.com/Astienth/Panzer_Dragoon_Remake_VR_bHaptics_Provolver/releases/download/1.0/PanzerDragoonRemakeVR_bHaptics_Provolver.zip)
+- Cloudpunk: [https://github.com/Astienth/Cloudpunk-VR/releases/download/1.0.0/Cloudpunk_VR.zip](https://github.com/Astienth/Cloudpunk-VR/releases/download/1.0.0/Cloudpunk_VR.zip)</br>
+- Cloudpunk City of Ghosts: [https://github.com/Astienth/Cloudpunk-VR/releases/download/1.0.0/Cloudpunk_City_of_Ghosts_VR.zip](https://github.com/Astienth/Cloudpunk-VR/releases/download/1.0.0/Cloudpunk_City_of_Ghosts_VR.zip)
   
 2) Extract its content into the game root folder, the folder containing the "Cloudpunk.exe" or "Cloudpunk - City of Ghosts.exe"</br>
 3) Launch the game like you usually launch it via steam or the exe file.
 4) Enjoy !
 
 # <b>Controls</b></br>
-No motion controller support. You need a gamepad or keayboard/mouse.
+No motion controller support. You need a gamepad or keyboard/mouse.
 </br>
 
 # <b>Options</b></br>
