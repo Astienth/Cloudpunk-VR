@@ -25,6 +25,8 @@ Steam page of the games: </br>
 # <b>Controls</b></br>
 No motion controller support. You need a gamepad or keyboard/mouse.
 </br>
+Press "Menu" action to recenter VR view (start button on a gamepad or escape key on a keyboard)
+</br>
 
 # <b>Options</b></br>
 The game is pretty heavy on performances especially in VR.
