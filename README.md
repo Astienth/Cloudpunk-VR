@@ -25,7 +25,7 @@ Steam page of the games: </br>
 4) Enjoy !
 
 # <b>Controls</b></br>
-No motion controller support. You need a gamepad or keyboard/mouse.
+No motion controller support. You need a gamepad or keyboard/mouse. If using keyboard/mouse, the mouse cursor is not visible, best option is using a gamepad.
 </br>
 Press "Menu" action to recenter VR view (start button on a gamepad or escape key on a keyboard)
 </br>
