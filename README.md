@@ -44,7 +44,11 @@ The game is pretty heavy on performances especially in VR.
 => this can disable the rain falling in front of you if you prefer. true = rain active, false = rain inactive.
 
 # <b>Deactivate the VR mod</b></br>
-If you wanna deactivate the VR mod, you just need to rename the file <b>winhttp.dll</b> in the game root folder.</br>
+If you wanna deactivate the VR mod, you need to rename some files: <b>winhttp.dll</b> in the game root folder.</br>
 It can be named anything BUT "winhttp.dll".</br>
 "winhttp" = mod active </br>
 "anythingelse" = mod inactive. </br>
+
+In Cloudpunk_Data folder, you should have two files: globalgamemanagers and globalgamemanagers.bak
+You first need to rename globalgamemanagers to globalgamemanagers.vr (for example), then rename globalgamemanagers.bak to globalgamemanagers (remove the extension)
+There can only be one file name globalgamemanagers at a time. Your globalgamemanagers.bak file is the game's original and not modified file. You need to restore this file as globalgamemanagers to disable the mod.
